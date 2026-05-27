@@ -1,0 +1,6 @@
+{
+  "name": "One Board",
+  "description": "A minimalist whiteboard and teleprompter application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
